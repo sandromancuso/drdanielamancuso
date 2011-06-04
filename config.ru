@@ -4,7 +4,7 @@ use Rack::Static,
             "/gallery.html", "/lectures.html", 
             "/newtechnologies.html", "/patienttestimonial.html",
             "/prosthdontics.html", "/publications.html",
-            ],
+            "/pdf/cv.pdf"],
   :root => "public"
 
 run lambda { |env|
