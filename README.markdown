@@ -1,1 +1,1 @@
-Static website for my sister. 
+Static website for my sister. This website was developed my by wife Viviane Mancuso.
